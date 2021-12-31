@@ -10,7 +10,7 @@ Debug = false
 SessionSecret = DwueqsOCChydmVIgTFtXNsqGNh3iUVOVyjdyBHPTppjG7FP1SiQYBOSZdOf35Pm7
 HashIDSalt = LzCgoB9pLdHYwsPQJ46AIDtLfkZ4KbtprcI8cxoKnwj58kFctbc9q3CmTUdXsCFP
 [Redis]
-Server = 127.0.0.1:6379
+Server = 127.0.0.1:6378
 Password =
 DB = 0
 EOF
